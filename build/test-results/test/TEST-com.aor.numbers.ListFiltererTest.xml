@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListFiltererTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-23T19:24:23" hostname="Rafaels-MBP" time="0.018">
+  <properties/>
+  <testcase name="divisibleBy2()" classname="com.aor.numbers.ListFiltererTest" time="0.013"/>
+  <testcase name="divisibleBy5()" classname="com.aor.numbers.ListFiltererTest" time="0.001"/>
+  <testcase name="positive()" classname="com.aor.numbers.ListFiltererTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
